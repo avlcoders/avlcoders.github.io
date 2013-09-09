@@ -11,9 +11,9 @@ We also strive to have one technical meetup a month.  Previous
 technical meetups include:
 
 * sharing different implementations of [Tic Tac Toe](/tictactoe.html)
-* [Ruby to Clojure](http://tcrawley.org/presentations/avl-rb-clojure-intro/)
-* [intro to Vert.x](http://tcrawley.org/presentations/vertx-acl/vertx.html) 
-* [intro to Scala](/assets/slideshows/AshevilleCodersScalaTalk.pdf)
+* [Ruby to Clojure](http://tcrawley.org/presentations/avl-rb-clojure-intro/) (HTML)
+* [intro to Vert.x](http://tcrawley.org/presentations/vertx-acl/vertx.html) (Slide Show)
+* [intro to Scala](/assets/slideshows/AshevilleCodersScalaTalk.pdf) (PDF)
 
 We are a ployglot group, so if it's a programming language someone is
 probably using it.
