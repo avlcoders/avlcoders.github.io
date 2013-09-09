@@ -20,6 +20,6 @@ probably using it.
 
 If you are interested in hanging out with us, by all means join the
 [Google Group](https://groups.google.com/forum/#!forum/asheville-coders), join
-our [meetup group](http://www.meetup.com/Asheville-Coders-League/), and come out and join us.
+our [Meetup group](http://www.meetup.com/Asheville-Coders-League/), and come out and join us.
 
 
