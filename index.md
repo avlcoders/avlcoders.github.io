@@ -18,8 +18,8 @@ technical meetups include:
 We are a ployglot group, so if it's a programming language someone is
 probably using it.
 
-If you are interested in hanging out with us, by all means join the
-[Google Group](https://groups.google.com/forum/#!forum/asheville-coders), join
-our [Meetup group](http://www.meetup.com/Asheville-Coders-League/), and come out and join us.
+If you are interested in hanging out with us, feel free to join the
+[Google](https://groups.google.com/forum/#!forum/asheville-coders) and
+[Meetup](http://www.meetup.com/Asheville-Coders-League/) groups, and come out and join us.
 
 
