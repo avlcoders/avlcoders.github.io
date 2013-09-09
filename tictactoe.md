@@ -15,7 +15,7 @@ Ruby with an AI opponent
 [https://gist.github.com/bhauman/5493451](https://github.com/semmypurewal/Tic-Tac-Node)
 
 Ruby  
-[https://gist.github.com/marklocklear/5491006](https://gist.github.com/marklocklear/5491006)
+[https://gist.github.com/marklocklear/5491006](https://gist.github.com/marklocklear/5491006)  
 [https://gist.github.com/marklocklear/5491002](https://gist.github.com/marklocklear/5491002)
 
 Javascript/DynJS  
