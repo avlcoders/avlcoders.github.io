@@ -15,7 +15,7 @@ technical meetups include:
 * [intro to Vert.x](http://tcrawley.org/presentations/vertx-acl/vertx.html) (Slide Show)
 * [intro to Scala](/assets/slideshows/AshevilleCodersScalaTalk.pdf) (PDF)
 
-We are a ployglot group, so if it's a programming language someone is
+We are a polyglot group, so if it's a programming language someone is
 probably using it.
 
 If you are interested in hanging out with us, feel free to join the
