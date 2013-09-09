@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: Asheville Coders League
 ---
 
 The Asheville Coders League is a group of coders who
