@@ -18,13 +18,13 @@ Ruby
 [https://gist.github.com/marklocklear/5491006](https://gist.github.com/marklocklear/5491006)
 [https://gist.github.com/marklocklear/5491002](https://gist.github.com/marklocklear/5491002)
 
-Javascript/DynJS
+Javascript/DynJS  
 [https://github.com/lance/tictactoe/blob/master/game.js](https://github.com/lance/tictactoe/blob/master/game.js)
 
-Python
+Python  
 [https://github.com/skavanaugh/TicTacToe](https://github.com/skavanaugh/TicTacToe)
 
-Clojure  
+Clojure   
 [https://github.com/tobias/ACL-tictactoe](https://github.com/tobias/ACL-tictactoe)
 
 Backbone.js scaffolded with Yeoman  
@@ -38,5 +38,3 @@ AngularJS, Javascript, minimax solver
 
 Javascript + node.js (with express, socket.io packages)  
 [https://github.com/ryanbarringtoncox/tic-bac-bone](https://github.com/ryanbarringtoncox/tic-bac-bone)
-
-
