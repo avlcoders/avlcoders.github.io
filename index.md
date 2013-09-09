@@ -10,8 +10,8 @@ Coxe Ave to share slices and beers.
 We also strive to have one technical meetup a month.  Previous
 technical meetups include:
 
-* sharing different implementations of Tic Tac Toe
-* [going from ruby to Clojure](http://tcrawley.org/presentations/avl-rb-clojure-intro/)
+* sharing different implementations of [Tic Tac Toe](/tictactoe.html)
+* [Ruby to Clojure](http://tcrawley.org/presentations/avl-rb-clojure-intro/)
 * [intro to Vert.x](http://tcrawley.org/presentations/vertx-acl/vertx.html) 
 * [intro to Scala](/assets/slideshows/AshevilleCodersScalaTalk.pdf)
 
