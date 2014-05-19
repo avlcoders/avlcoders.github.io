@@ -3,10 +3,11 @@ layout: default
 title: Asheville Coders League
 ---
 
-The Asheville Coders League is a group of coders who meet regularly on Wednesday nights at [Pizza Pura](http://pizzapura.com) in the River Arts District on [Depot St](http://www.openstreetmap.org/?mlat=35.58166&mlon=-82.56436#map=19/35.58166/-82.56436&layers=N).
+The Asheville Coders League is a group of coders who meet regularly on Wednesday nights at [Asheville Brewing and Pizza](http://www.ashevillebrewing.com/) on [Coxe Ave](http://www.openstreetmap.org/#map=19/35.59172/-82.55578).
 
-We also strive to have one technical meetup a month.  Previous
-technical meetups include:
+We also strive to have one technical meetup a month, so please check our [Meetup page](http://www.meetup.com/Asheville-Coders-League/) to see where we will be on a given Wednesday.  
+
+Previous technical meetups include:
 
 * sharing different implementations of [Tic Tac Toe](/tictactoe.html)
 * [Ruby to Clojure](http://tcrawley.org/presentations/avl-rb-clojure-intro/) (HTML)
