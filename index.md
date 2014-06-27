@@ -3,9 +3,11 @@ layout: default
 title: Asheville Coders League
 ---
 
-The Asheville Coders League is a group of coders who meet regularly on Wednesday nights at [Asheville Brewing and Pizza](http://www.ashevillebrewing.com/) on [Coxe Ave](http://www.openstreetmap.org/#map=19/35.59172/-82.55578).
+The Asheville Coders League is a group of coders who meet regularly on Wednesday nights. We also strive to have one technical meetup a month.
 
-We also strive to have one technical meetup a month, so please check our [Meetup page](http://www.meetup.com/Asheville-Coders-League/) to see where we will be on a given Wednesday.  
+<span id="nextEventFromNow">Find our next event on our <a href="http://www.meetup.com/Asheville-Coders-League/">Meetup page</a>.</span>
+
+<div class="event-tile" id="nextEvent"></div>
 
 Previous technical meetups include:
 

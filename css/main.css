@@ -94,6 +94,22 @@ ul.posts span {
 
   .header a.extra:hover { color: #000; }
 
+.event-tile {
+  border-left: .25em solid #a52a2a;
+  line-height: 1.2;
+  margin: 1em .75em;
+  padding: 0 1em;
+}
+  .event-tile .event-title {
+    color: #A52A2A;
+    font-weight: normal;
+    margin: 0;
+    padding-top: .125em;
+  }
+  .event-tile p {
+    margin: .25em 0;
+  }
+
 .footer {
   color: #666;
   border-top: .5em solid #eee;
