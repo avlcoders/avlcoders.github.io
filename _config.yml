@@ -1,4 +1,3 @@
 name: Asheville Coders League
 markdown: kramdown
-pygments: true
-
+highlighter: pygments
